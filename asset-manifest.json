@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/loading-ns/static/css/main.0f4d5f2f.css",
-    "main.js": "/loading-ns/static/js/main.b3fa6c18.js",
-    "static/media/loader.gif": "/loading-ns/static/media/loader.bfa432e27348cb033293.gif",
-    "index.html": "/loading-ns/index.html",
-    "main.0f4d5f2f.css.map": "/loading-ns/static/css/main.0f4d5f2f.css.map",
-    "main.b3fa6c18.js.map": "/loading-ns/static/js/main.b3fa6c18.js.map"
+    "main.css": "/Cloudbrowsers.githubcloud.io/static/css/main.0f4d5f2f.css",
+    "main.js": "/Cloudbrowsers.githubcloud.io/static/js/main.36c22b02.js",
+    "static/media/loader.gif": "/Cloudbrowsers.githubcloud.io/static/media/loader.bfa432e27348cb033293.gif",
+    "index.html": "/Cloudbrowsers.githubcloud.io/index.html",
+    "main.0f4d5f2f.css.map": "/Cloudbrowsers.githubcloud.io/static/css/main.0f4d5f2f.css.map",
+    "main.36c22b02.js.map": "/Cloudbrowsers.githubcloud.io/static/js/main.36c22b02.js.map"
   },
   "entrypoints": [
     "static/css/main.0f4d5f2f.css",
-    "static/js/main.b3fa6c18.js"
+    "static/js/main.36c22b02.js"
   ]
 }
