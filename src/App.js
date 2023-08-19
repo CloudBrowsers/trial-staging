@@ -36,7 +36,7 @@ const App = () => {
           <div className="img-container">
             <img src={loader} alt="loading..." />
           </div>
-          <h1>your trial is getting created, please wait!!</h1>
+          <h1>Please wait while we are configuring your Account</h1>
         </>
       )}
     </div>
