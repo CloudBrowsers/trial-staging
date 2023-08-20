@@ -39,6 +39,15 @@ const App = () => {
           <h1>Please wait while we are configuring your Account</h1>
         </>
       )}
+      <h2>
+        For support{" "}
+        <a
+          href="https://cloudifytests.atlassian.net/servicedesk/customer/portal/3"
+          target={"_blank"}
+        >
+          Contact Us
+        </a>
+      </h2>
     </div>
   );
 };
