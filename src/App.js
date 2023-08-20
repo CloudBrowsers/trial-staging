@@ -10,7 +10,7 @@ const App = () => {
   const createNsApi = async () => {
     try {
       const response = await axios.post(
-        "https://stg.cloudifytests.com/accept-invite-mail/",
+        "https://app.cloudifytests.com/accept-invite-mail/",
         {
           token: searchParams.get("token"),
         }
